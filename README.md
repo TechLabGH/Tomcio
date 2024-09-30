@@ -13,12 +13,12 @@ Drain off developer 10 sec before end
 
 * Stop bath
 
-I use 2 min stop bath with 4 tank inversions at the beginning and after 1 min
+  I use 2 min stop bath with 4 tank inversions at the beginning and after 1 min
 
 * Fix
 
-This is 4 min process - agitation is the same as in development.
+  This is 4 min process - agitation is the same as in development.
 
 * Rinse
 
-This is three step process - fill with water, invert tank 5 timex / replace water, invert 10 times / replace water, invert 20 times
+  This is three step process - fill with water, invert tank 5 timex / replace water, invert 10 times / replace water, invert 20 times
