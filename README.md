@@ -1,5 +1,5 @@
 # Tomcio
-Film Development Timer/Controller/Helper
+**Film Development Timer/Controller/Helper**
 
 The project has been built to help me in developing 35mm films. This process requires strictly following timeline depending on used chemicals and film recomendations.
 
@@ -24,3 +24,6 @@ It supports four stages (this is set for Ilford Delta 100 / Ilfosol-3 / Ilfostop
   This is three step process - fill with water, invert tank 5 timex / replace water, invert 10 times / replace water, invert 20 times
 
 Project use NEMA motor to invert tank. I built 3D printed mount where tank may be quickly and securely attached. I used 6 x 200mm 2020 profiles to build frame. Additionally there is vibration motor attached - it's running at the end of agitation to remove any bubles from film surface.
+
+Cortoller was built around ESP32-S3 module. Program is developed in PlatformIO Arduino framework. Code looks horrible :) but I'm beginner, cleanning and improoving it would be challenge itself for me. I used 4" TFT touchscreen with ST7796S IC. 
+
