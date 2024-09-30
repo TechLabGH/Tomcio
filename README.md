@@ -7,7 +7,7 @@ It supports four stages (this is set for Ilford Delta 100 / Ilfosol-3 / Ilfostop
 
 * **Development**
 
-  Inirial agitation during first 10 sec - invert tank 4 times. Next repeat this on beginning of every next minute. Total development time is 7:30
+  Initial agitation during first 10 sec - invert tank 4 times. Next repeat this on beginning of every next minute. Total development time is 7:30
 
   Drain off developer 10 sec before end
 
