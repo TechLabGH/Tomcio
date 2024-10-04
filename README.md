@@ -25,7 +25,13 @@ It supports four stages (this is set for Ilford Delta 100 / Ilfosol-3 / Ilfostop
 
 Project use NEMA motor to invert tank. I built 3D printed mount where tank may be quickly and securely attached. I used 6 x 200mm 2020 profiles to build frame. Additionally there is vibration motor attached - it's running at the end of agitation to remove any bubles from film surface.
 
-Cortoller was built around ESP32-S3 module. Program is developed in PlatformIO Arduino framework. Code looks horrible :) but I'm beginner, cleanning and improoving it would be challenge itself for me. I used 4" TFT touchscreen with ST7796S IC. 
-
 
 [Here](https://github.com/TechLabGH/Tomcio/blob/main/PCB/PCB%20design.html) is interactive PCB document with BOM. Download it and open from local disk.
+
+Hardware/Software:
+* [TFT Display](www.amazon.com/dp/B0CKRJ81B5) - 4.0 Inches 480x320 TFT Touch Screen LCD Display Module SPI ST7796S
+* ESP32-S3-WROOM-1U-N16R8CT-ND
+
+Software developed in PlatformIO with Arduino framework - libraries needed:
+* bodmer/TFT_eSPI@^2.5.43
+* laurb9/StepperDriver@^1.4.1
