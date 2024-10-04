@@ -29,7 +29,7 @@ Project use NEMA motor to invert tank. I built 3D printed mount where tank may b
 [Here](https://github.com/TechLabGH/Tomcio/blob/main/PCB/PCB%20design.html) is interactive PCB document with BOM. Download it and open from local disk.
 
 Hardware/Software:
-* [TFT Display](www.amazon.com/dp/B0CKRJ81B5) - 4.0 Inches 480x320 TFT Touch Screen LCD Display Module SPI ST7796S
+* <a href="https://www.amazon.com/dp/B0CKRJ81B5" target="blank">TFT Display</a>
 * ESP32-S3-WROOM-1U-N16R8CT-ND
 
 Software developed in PlatformIO with Arduino framework - libraries needed:
