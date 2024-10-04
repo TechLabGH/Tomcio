@@ -28,4 +28,4 @@ Project use NEMA motor to invert tank. I built 3D printed mount where tank may b
 Cortoller was built around ESP32-S3 module. Program is developed in PlatformIO Arduino framework. Code looks horrible :) but I'm beginner, cleanning and improoving it would be challenge itself for me. I used 4" TFT touchscreen with ST7796S IC. 
 
 
-[Here](https://github.com/TechLabGH/Tomcio/blob/main/PCB/PCB%20design.html) is interactive PCB document with BOM
+[Here](https://github.com/TechLabGH/Tomcio/blob/main/PCB/PCB%20design.html) is interactive PCB document with BOM. Download it and open from local disk.
