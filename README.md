@@ -25,7 +25,7 @@ It supports four stages (this is set for Ilford Delta 100 / Ilfosol-3 / Ilfostop
 
 Project use NEMA motor to invert tank. I built 3D printed mount where tank may be quickly and securely attached. I used 6 x 200mm 2020 profiles to build frame. Additionally there is vibration motor attached - it's running at the end of agitation to remove any bubles from film surface.
 
-<a href="https://www.amazon.com/dp/B0CKRJ81B5" target="blank">Here</a> is interactive PCB document with BOM. Download it and open from local disk.
+<a href="https://github.com/TechLabGH/Tomcio/blob/main/PCB/PCB%20design.html" target="blank">Here</a> is interactive PCB document with BOM. Download it and open from local disk.
 
 Hardware/Software:
 * <a href="https://www.amazon.com/dp/B0CKRJ81B5" target="blank">TFT Display</a> = 4.0 Inches 480x320 TFT Touch Screen LCD Display Module SPI ST7796S
